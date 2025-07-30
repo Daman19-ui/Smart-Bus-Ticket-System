@@ -1,0 +1,4 @@
+Rajat,PB11AB6496,PRTC Ordinary,Patiala,Chandigarh,50
+Rajat,PB11AB6496,PRTC Ordinary,Patiala,Chandigarh,50
+Rajat,PB11AB6496,PRTC Ordinary,Patiala,Chandigarh,50
+Aman,PB11AB6496,PRTC Ordinary,Patiala,Chandigarh,50
